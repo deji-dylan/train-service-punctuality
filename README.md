@@ -52,3 +52,30 @@ The dataset is sourced from **Network Rail** and spans train punctuality records
 1. Clone this repository:
    ```bash
    git clone https://github.com/deji-dylan/train-service-punctuality.git
+
+
+## Key Findings
+
+Train punctuality varies significantly between national and operator-specific services.
+
+Suspended services during the COVID-19 pandemic likely influenced punctuality trends.
+
+These insights align with earlier research that highlights the role of operators in service reliability.
+
+## Future Work
+
+Explore the impact of external factors (e.g., weather or regional disruptions) on train punctuality.
+
+Integrate more recent datasets to analyze post-pandemic trends.
+
+Develop predictive models for punctuality using machine learning.
+
+## References
+
+Khattak, A., Wang, X., Son, S., & Agnello, P. (2011). Travel by University Students in Virginia. Transportation Research Record, 2255(1), 137–145.
+
+Preston, J., Wall, G., Batley, R., Ibáñez, J. N., & Shires, J. (2009). Impact of Delays on Passenger Train Services. Transportation Research Record, 2117(1), 14–23.
+
+## Acknowledgements
+
+Special thanks to Network Rail for the dataset and inspiration drawn from previous research in the transportation sector.
